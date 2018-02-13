@@ -1,6 +1,6 @@
-# ReduxSimpleStarter
+# Redux_Book_List
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+It's a basic practice implemented Redux, application state, actions, actions creators, reducers, containers, and react-redux.
 
 ### Getting Started
 
@@ -10,7 +10,7 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+> git clone https://github.com/kuanhanchen/Redux_Book_List.git
 > cd ReduxSimpleStarter
 > npm install
 > npm start
